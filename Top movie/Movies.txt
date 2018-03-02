@@ -1,0 +1,101 @@
+Title	Studio	Lifetime Gross	Year
+Alice in Wonderland (2010)	Buena Vista	334191110	2010
+American Sniper	Warner Bros	350126372	2014
+Avatar	Fox	760507625	2009
+Avengers: Age of Ultron	Buena Vista	459005868	2015
+Batman v Superman: Dawn of Justice	Warner Bros	330360194	2016
+Beauty and the Beast (2017)	Buena Vista	504014165	2017
+Captain America: Civil War	Buena Vista	408084349	2016
+Deadpool	Fox	363070709	2016
+Despicable Me 2	Universal	368061265	2013
+Despicable Me 3	Universal	264624300	2017
+E.T.: The Extra-Terrestrial	Universal	435110554	1982
+Finding Dory	Buena Vista	486295561	2016
+Finding Nemo	Buena Vista	380843261	2003
+Forrest Gump	Paramount	330252182	1994
+Frozen	Buena Vista	400738009	2013
+Furious 7	Universal	353007020	2015
+Gravity	Warner Bros	274092705	2013
+Guardians of the Galaxy	Buena Vista	333176600	2014
+Guardians of the Galaxy Vol. 2	Buena Vista	389813101	2017
+Harry Potter and the Chamber of Secrets	Warner Bros	261988482	2002
+Harry Potter and the Deathly Hallows Part 1	Warner Bros	295983305	2010
+Harry Potter and the Deathly Hallows Part 2	Warner Bros	381011219	2011
+Harry Potter and the Goblet of Fire	Warner Bros	290013036	2005
+Harry Potter and the Half-Blood Prince	Warner Bros	301959197	2009
+Harry Potter and the Order of the Phoenix	Warner Bros	292004738	2007
+Harry Potter and the Sorcerer's Stone	Warner Bros	317575550	2001
+Home Alone	Fox	285761243	1990
+How the Grinch Stole Christmas	Universal	260044825	2000
+Inception	Warner Bros	292576195	2010
+Independence Day	Fox	306169268	1996
+Indiana Jones and the Kingdom of the Crystal Skull	Paramount	317101119	2008
+Inside Out	Buena Vista	356461711	2015
+Iron Man	Paramount	318412101	2008
+Iron Man 2	Paramount	312433331	2010
+Iron Man 3	Buena Vista	409013994	2013
+It	Warner Bros (NL)	327481748	2017
+Jaws	Universal	260000000	1975
+Jurassic Park	Universal	402453882	1993
+Jurassic World	Universal	652270625	2015
+Man of Steel	Warner Bros	291045518	2013
+Marvel's The Avengers	Buena Vista	623357910	2012
+Meet the Fockers	Universal	279261160	2004
+Minions	Universal	336045770	2015
+Monsters University	Buena Vista	268492764	2013
+"Monsters, Inc."	Buena Vista	289916256	2001
+Pirates of the Caribbean: At World's End	Buena Vista	309420425	2007
+Pirates of the Caribbean: Dead Man's Chest	Buena Vista	423315812	2006
+Pirates of the Caribbean: The Curse of the Black Pearl	Buena Vista	305413918	2003
+Return of the Jedi	Fox	309306177	1983
+Rogue One: A Star Wars Story	Buena Vista	532177324	2016
+Shrek	DW	267665011	2001
+Shrek 2	DW	441226247	2004
+Shrek the Third	P/DW	322719944	2007
+Sing	Universal	270329045	2016
+Skyfall	Sony	304360277	2012
+Spider-Man	Sony	403706375	2002
+Spider-Man 2	Sony	373585825	2004
+Spider-Man 3	Sony	336530303	2007
+Spider-Man: Homecoming	Sony	334201140	2017
+Star Wars	Fox	460998007	1977
+Star Wars: Episode I - The Phantom Menace	Fox	474544677	1999
+Star Wars: Episode II - Attack of the Clones	Fox	310676740	2002
+Star Wars: Episode III - Revenge of the Sith	Fox	380270577	2005
+Star Wars: The Force Awakens	Buena Vista	936662225	2015
+Star Wars: The Last Jedi	Buena Vista	572513602	2017
+Suicide Squad	Warner Bros	325100054	2016
+The Amazing Spider-Man	Sony	262030663	2012
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"	Buena Vista	291710957	2005
+The Dark Knight	Warner Bros	534858444	2008
+The Dark Knight Rises	Warner Bros	448139099	2012
+The Empire Strikes Back	Fox	290475067	1980
+The Hangover	Warner Bros	277322503	2009
+The Hobbit: An Unexpected Journey	Warner Bros (NL)	303003568	2012
+The Hunger Games	LGF	408010692	2012
+The Hunger Games: Catching Fire	LGF	424668047	2013
+The Hunger Games: Mockingjay - Part 1	LGF	337135885	2014
+The Hunger Games: Mockingjay - Part 2	LGF	281723902	2015
+The Incredibles	Buena Vista	261441092	2004
+The Jungle Book (2016)	Buena Vista	364001123	2016
+The Lion King	Buena Vista	422783777	1994
+The Lord of the Rings: The Fellowship of the Ring	NL	315544750	2001
+The Lord of the Rings: The Return of the King	NL	377845905	2003
+The Lord of the Rings: The Two Towers	NL	342551365	2002
+The Matrix Reloaded	Warner Bros	281576461	2003
+The Passion of the Christ	NM	370782930	2004
+The Secret Life of Pets	Universal	368384330	2016
+The Sixth Sense	Buena Vista	293506292	1999
+The Twilight Saga: Breaking Dawn Part 1	Sum.	281287133	2011
+The Twilight Saga: Breaking Dawn Part 2	LG/S	292324737	2012
+The Twilight Saga: Eclipse	Sum.	300531751	2010
+The Twilight Saga: New Moon	Sum.	296623634	2009
+Thor: Ragnarok	Buena Vista	312478786	2017
+Titanic	Paramount	659363944	1997
+Toy Story 3	Buena Vista	415004880	2010
+Transformers	P/DW	319246193	2007
+Transformers: Dark of the Moon	P/DW	352390543	2011
+Transformers: Revenge of the Fallen	P/DW	402111870	2009
+Up	Buena Vista	293004164	2009
+Wonder Woman	Warner Bros	412563408	2017
+Zootopia	Buena Vista	341268248	2016
